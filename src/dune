@@ -1,5 +1,5 @@
 (library
   (public_name tds)
   (inline_tests (flags (-verbose)))
-  (libraries sexplib)
+  (libraries integers sexplib uutf)
   (preprocess (pps ppx_jane bisect_ppx -conditional)))

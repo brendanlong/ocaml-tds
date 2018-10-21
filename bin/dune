@@ -1,0 +1,4 @@
+(executables
+ (public_names tds_example)
+ (libraries async tds)
+ (preprocess (pps ppx_jane)))
