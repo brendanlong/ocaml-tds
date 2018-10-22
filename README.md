@@ -1,6 +1,6 @@
-A low-level TDS (SQL Server) protocol client for OCaml
+A work-in-progress low-level TDS (SQL Server) protocol client for OCaml
 
-Features:
+Planned features:
 
   - Pure OCaml
   - Supports TDS version 7.4
